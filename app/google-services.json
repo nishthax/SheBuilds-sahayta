@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316552235609",
+    "project_id": "wesafe-6197c",
+    "storage_bucket": "wesafe-6197c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316552235609:android:12f191846a869836adbf48",
+        "android_client_info": {
+          "package_name": "com.example.safecity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316552235609-954kohg66o4gmaoagkibserc6t16ijbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXDA20FGJ37-xMSgzr8KMK90uyUQ87Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316552235609-954kohg66o4gmaoagkibserc6t16ijbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
