@@ -4,7 +4,7 @@ Sahayta is a women safety app which sends your location to your emergency contac
 
 # Look and feel
 
-<img src="ss/home.jpeg" height = 420px>  <img src="ss/landing.jpeg" height = 420px>  <img src="ss/navbar.jpeg" height = 420px> <img src="ss/shareincident1.jpeg" height = 420px> <img src="ss/shareincident2.jpeg" height = 420px> <img src="ss/sos.jpeg" height = 420px>
+<img src="ss/home.jpeg" height = "420px">  <img src="ss/landing.jpeg" height = "420px">  <img src="ss/navbar.jpeg" height = "420px"> <img src="ss/shareincident1.jpeg" height = "420px"> <img src="ss/shareincident2.jpeg" height = "420px"> <img src="ss/sos.jpeg" height = "420px">
 
 
 # Functionalities
